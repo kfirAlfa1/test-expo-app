@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Test Expo App",
+    "slug": "test-expo-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.kfiralfa1.testexpoapp" },
+    "android": { "package": "com.kfiralfa1.testexpoapp" }
+  }
+}
